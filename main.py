@@ -3,7 +3,7 @@ import json
 import time
 
 # Paste your SportsMonk API key here
-API_KEY = '1KLBIcXtDpZxPYP3GvKRslOUWVE1h9pBeuT2Zixjg7ZmohRTjGL4DUWBp6Kr'
+API_KEY = 'paste your API key here'
 # Endpoint for live and upcoming matches
 LIVE_API_URL = 'https://cricket.sportmonks.com/api/v2.0/livescores'
 UPCOMING_API_URL = 'https://cricket.sportmonks.com/api/v2.0/fixtures?include=localteam,visitorteam'
